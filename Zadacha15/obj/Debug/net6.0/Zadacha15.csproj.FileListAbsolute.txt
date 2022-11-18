@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\bin\Debug\net6.0\Zadacha15.exe
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\bin\Debug\net6.0\Zadacha15.deps.json
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\bin\Debug\net6.0\Zadacha15.runtimeconfig.json
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\bin\Debug\net6.0\Zadacha15.dll
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\bin\Debug\net6.0\Zadacha15.pdb
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.AssemblyInfo.cs
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.dll
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\refint\Zadacha15.dll
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.pdb
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\Zadacha15.genruntimeconfig.cache
+C:\Users\Мария\Desktop\Обучение МАША\4. Знакомство с языками программирования\Семинары\Homework\Zadacha15\obj\Debug\net6.0\ref\Zadacha15.dll

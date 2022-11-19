@@ -8,21 +8,23 @@
    918 -> 1
     */
 
-Console.WriteLine("Введите трёхзначное положительное число: ");
+Console.WriteLine("Введите трёхзначное число: ");
     int number = Convert.ToInt32(Console.ReadLine());
     
-    if(number / 100 > 0 & number / 100 < 10)
+    if(number / 100 > 0 & number / 100 < 10 || number > -1000 & number < -99)
     {
     int hundreds = number / 100;
-    int tens = number / 10;
     int result = (number - hundreds * 100) / 10;
-    
+       if(result < 0)
+       {
+         result = result * (-1);
+       }
     Console.WriteLine($"Вторая цифра трехзначного числа равна {result}");
     }
 
     else
     {
-     Console.WriteLine($"{number} не является положительным трехзначным числом");
+     Console.WriteLine($"{number} не является трехзначным числом");
     }
 
    

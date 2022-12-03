@@ -8,6 +8,7 @@
     int[] numbers = new int[size];
     int count = 0;
     FillArray(numbers);
+    Console.Write("Задан массив: ");
     PrintArray(numbers);
 
     for (int i = 0; i < numbers.Length; i++)
@@ -15,7 +16,7 @@
         if (numbers[i] % 2 == 0)
             count++;
     }
-    Console.WriteLine($"Количество чётных чисел в массиве: {count} ");
+    Console.WriteLine($"Количество чётных чисел в массиве => {count} ");
 
     void FillArray(int[] array)
     {
@@ -26,10 +27,12 @@
     }
     void PrintArray(int[] array)
     {
+        Console.Write("[ ");
         for (int i = 0; i < array.Length; i++)
         {
             Console.Write(array[i] + " ");
         }
+        Console.Write("]");
         Console.WriteLine();
     }
 }
